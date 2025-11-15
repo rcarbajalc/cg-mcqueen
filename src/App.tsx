@@ -220,8 +220,8 @@ function App() {
             <h2>Demo del Proyecto</h2>
             <div className="video-container">
               <video controls className="demo-video">
-                <source src="mcqueen.mov" type="video/quicktime" />
-                <source src="mcqueen.mov" type="video/mov" />
+                <source src="untitled.mp4" type="video/quicktime" />
+                <source src="untitled.mp4" type="video/mp4" />
                 Tu navegador no soporta el elemento de video.
               </video>
               <p className="video-caption">
