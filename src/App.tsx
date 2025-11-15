@@ -85,19 +85,19 @@ function App() {
             
             <div className="image-grid">
               <div className="image-card">
-                <img src="/cg-mcqueen/entorno_blender.png" alt="Entorno Blender" />
+                <img src="entorno_blender.png" alt="Entorno Blender" />
                 <p className="image-caption">Entorno de trabajo en Blender</p>
               </div>
               <div className="image-card">
-                <img src="/cg-mcqueen/division_malla.png" alt="División de malla" />
+                <img src="division_malla.png" alt="División de malla" />
                 <p className="image-caption">División de la malla en componentes</p>
               </div>
               <div className="image-card">
-                <img src="/cg-mcqueen/creacion_shapekeys.png" alt="Creación de Shape Keys" />
+                <img src="creacion_shapekeys.png" alt="Creación de Shape Keys" />
                 <p className="image-caption">Creación de Shape Keys para animación</p>
               </div>
               <div className="image-card">
-                <img src="/cg-mcqueen/malla_en_fondo.png" alt="Malla en fondo" />
+                <img src="malla_en_fondo.png" alt="Malla en fondo" />
                 <p className="image-caption">Renderizado con fondo realista</p>
               </div>
             </div>
@@ -220,8 +220,8 @@ function App() {
             <h2>Demo del Proyecto</h2>
             <div className="video-container">
               <video controls className="demo-video">
-                <source src="/cg-mcqueen/mcqueen.mov" type="video/quicktime" />
-                <source src="/cg-mcqueen/mcqueen.mov" type="video/mp4" />
+                <source src="mcqueen.mov" type="video/quicktime" />
+                <source src="mcqueen.mov" type="video/mp4" />
                 Tu navegador no soporta el elemento de video.
               </video>
               <p className="video-caption">
